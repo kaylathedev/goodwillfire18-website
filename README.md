@@ -1,12 +1,12 @@
 # Goodwillfire18 Website
 
-This repository is dedicated to sharing the in's and out's of [https://goodwillfire18.com](goodwillfire18.com)
+This repository is dedicated to sharing the in's and out's of [GoodwillFire18.com](https://goodwillfire18.com)
 
 Any technical info that can be publicly shared will be located here.
 
 ## Issues
 
-Any problems, no matter how small, should be added here ---> [https://github.com/kaylathedev/goodwillfire18-website/issues](Issues) <---
+Any problems, no matter how small, should be added here ---> [Issues](https://github.com/kaylathedev/goodwillfire18-website/issues) <---
 
 Examples:
 
